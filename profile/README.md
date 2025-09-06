@@ -6,7 +6,7 @@
 
 ## 你好
 
-欢迎来到 NekoBotDEVS 的 GitHub 页面!
+欢迎来到 NekoChatDevs 的 Readme页面!
 
 [点击这里进入我们的官方社群一群](https://qm.qq.com/q/iYgtqyfo78)
 
